@@ -1,5 +1,3 @@
-# SLDP2.0
-
 # Sea Level Data Processor V2.0
 
 > Sea Level Data Processor V2.0 is a Python program that creates a user-friendly interface to process sea level data files from the **"SEA LEVEL STATION MONITORING FACILITY"** website. It identifies missing data gaps and segments each file into continuous measurement intervals.
