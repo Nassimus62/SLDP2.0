@@ -28,8 +28,6 @@
 ### Credits:
 
 > - Made by: Nassim Mechat  
-> - Original idea: Mouad Hebik  
-> - GUI: Enhanced by Claude AI  
 
 ---
 
