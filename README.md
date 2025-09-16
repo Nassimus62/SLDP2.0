@@ -28,8 +28,3 @@
 ### Credits:
 
 > - Made by: Nassim Mechat  
-
----
-
-**Version:** 2.0  
-© M1 GMIC USTHB 2024/2025
